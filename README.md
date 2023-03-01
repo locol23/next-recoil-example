@@ -1,6 +1,6 @@
 # next-recoil-example
 
-This is a example for Next.js and Recoil
+This is an example for Next.js and Recoil
 
 ## Demo
 
